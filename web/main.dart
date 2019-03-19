@@ -110,7 +110,7 @@ Future<Null> main() async {
             header.innerHtml = "Sierpinski carpet";
             for (double x = 0; x < width; x++) {
               for (double y = 0; y < height; y++) {
-                  if(isSierpinskiCarpetPixelFilled(x,y,15) == 1){
+                  if(isSierpinskiCarpetPixelFilled(x,y,3) == 1){
                     bitmapData.setPixel32(
                         x, y, 0xFFFFFFFF);
                   } else {
