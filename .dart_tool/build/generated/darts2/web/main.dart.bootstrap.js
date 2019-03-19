@@ -32,6 +32,7 @@ let modulePaths = {
  "packages/collection/src/iterable_zip": "packages/collection/src/iterable_zip.ddc",
  "packages/collection/src/priority_queue": "packages/collection/src/priority_queue.ddc",
  "packages/collection/src/utils": "packages/collection/src/utils.ddc",
+ "packages/color/color": "packages/color/color.ddc",
  "packages/petitparser/petitparser": "packages/petitparser/petitparser.ddc",
  "packages/petitparser/src/core/actions/action": "packages/petitparser/src/core/actions/action.ddc",
  "packages/stagexl/stagexl": "packages/stagexl/stagexl.ddc",

@@ -1,1 +1,1 @@
-{"isEntrypoint":true,"deps":["stagexl|lib/stagexl.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","html","math"]}
+{"isEntrypoint":true,"deps":["stagexl|lib/stagexl.dart","color|lib/color.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","html","core","math"]}

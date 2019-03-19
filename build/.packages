@@ -17,6 +17,7 @@ built_value:packages/built_value/
 charcode:packages/charcode/
 code_builder:packages/code_builder/
 collection:packages/collection/
+color:packages/color/
 convert:packages/convert/
 crypto:packages/crypto/
 dart_style:packages/dart_style/
