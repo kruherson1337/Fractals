@@ -1,62 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a8fb4cd-0b98-4165-915d-7597a4d8a0be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/098d3ee73e6cc294616d3a2e2c3c81ad/asset_graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/098d3ee73e6cc294616d3a2e2c3c81ad/asset_graph.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/.dart2js.meta_module.raw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/.dart2js.meta_module.clean" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/.dart2js.meta_module.raw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/collection.dart2js.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/algorithms.dart2js.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/canonicalized_map.dart2js.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/comparators.dart2js.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/iterable_zip.dart2js.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/priority_queue.dart2js.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/utils.dart2js.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/color/lib/.dart2js.meta_module.clean" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/color/lib/.dart2js.meta_module.raw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/color/lib/color.dart2js.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/convert/lib/.dart2js.meta_module.raw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/lib/.dart2js.meta_module.clean" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/lib/.dart2js.meta_module.raw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/lib/.dartdevc.meta_module.clean" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/lib/.dartdevc.meta_module.clean" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/lib/.dartdevc.meta_module.raw" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/lib/.dartdevc.meta_module.raw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.dart.bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.dart.bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.dart2js.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.dartdevc.module" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.dartdevc.module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.ddc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.ddc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.ddc.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.ddc.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.digests" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.digests" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.module.library" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.module.library" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/petitparser/lib/.dart2js.meta_module.clean" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/petitparser/lib/.dart2js.meta_module.raw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/petitparser/lib/petitparser.dart2js.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/petitparser/lib/src/core/actions/action.dart2js.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/stagexl/lib/.dart2js.meta_module.clean" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/stagexl/lib/.dart2js.meta_module.raw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/stagexl/lib/stagexl.dart2js.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/stagexl/lib/stagexl.ddc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/stagexl/lib/stagexl.ddc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/stagexl/lib/stagexl.ddc.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/stagexl/lib/stagexl.ddc.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/.dart2js.meta_module.raw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/xml/lib/.dart2js.meta_module.clean" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/xml/lib/.dart2js.meta_module.raw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/xml/lib/src/xml/builder.dart2js.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/xml/lib/xml.dart2js.module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/pub/bin/build_runner/build_runner.dart.snapshot.dart2" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/pub/bin/build_runner/build_runner.dart.snapshot.dart2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/pub/bin/build_runner/graph_inspector.dart.snapshot.dart2" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/pub/bin/build_runner/graph_inspector.dart.snapshot.dart2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/build/.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/main.dart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/web/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="3a8fb4cd-0b98-4165-915d-7597a4d8a0be" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -98,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+            <state relative-caret-position="512">
+              <caret line="316" column="38" lean-forward="true" selection-start-line="316" selection-start-column="38" selection-end-line="316" selection-end-column="38" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -227,16 +172,23 @@
       <workItem from="1552948788586" duration="11773000" />
       <workItem from="1553286783879" duration="13485000" />
       <workItem from="1553452156421" duration="10184000" />
-      <workItem from="1553548013616" duration="10197000" />
+      <workItem from="1553548013616" duration="10373000" />
     </task>
+    <task id="LOCAL-00001" summary="added maze generator">
+      <created>1553593658675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553593658675</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47016000" />
+    <option name="totallyTimeSpent" value="47192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1275" height="1396" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14686999" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -262,6 +214,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added maze generator" />
+    <option name="LAST_COMMIT_MESSAGE" value="added maze generator" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -361,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+        <state relative-caret-position="512">
+          <caret line="316" column="38" lean-forward="true" selection-start-line="316" selection-start-column="38" selection-end-line="316" selection-end-column="38" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>

@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["image|lib/src/image.dart","image|lib/src/filter/seperable_convolution.dart","image|lib/src/filter/seperable_kernel.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"]}
