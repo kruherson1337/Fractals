@@ -25,6 +25,9 @@ var baseUrl = (function () {
 
 let modulePaths = {
  "dart_sdk": "packages/$sdk/dev_compiler/amd/dart_sdk",
+ "packages/archive/archive": "packages/archive/archive.ddc",
+ "packages/archive/src/archive": "packages/archive/src/archive.ddc",
+ "packages/charcode/ascii": "packages/charcode/ascii.ddc",
  "packages/collection/collection": "packages/collection/collection.ddc",
  "packages/collection/src/algorithms": "packages/collection/src/algorithms.ddc",
  "packages/collection/src/canonicalized_map": "packages/collection/src/canonicalized_map.ddc",
@@ -33,9 +36,14 @@ let modulePaths = {
  "packages/collection/src/priority_queue": "packages/collection/src/priority_queue.ddc",
  "packages/collection/src/utils": "packages/collection/src/utils.ddc",
  "packages/color/color": "packages/color/color.ddc",
+ "packages/convert/convert": "packages/convert/convert.ddc",
+ "packages/crypto/crypto": "packages/crypto/crypto.ddc",
+ "packages/image/image": "packages/image/image.ddc",
  "packages/petitparser/petitparser": "packages/petitparser/petitparser.ddc",
  "packages/petitparser/src/core/actions/action": "packages/petitparser/src/core/actions/action.ddc",
  "packages/stagexl/stagexl": "packages/stagexl/stagexl.ddc",
+ "packages/typed_data/typed_buffers": "packages/typed_data/typed_buffers.ddc",
+ "packages/typed_data/typed_data": "packages/typed_data/typed_data.ddc",
  "packages/xml/src/xml/builder": "packages/xml/src/xml/builder.ddc",
  "packages/xml/xml": "packages/xml/xml.ddc",
  "web/main": "main.ddc"

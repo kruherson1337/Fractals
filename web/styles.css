@@ -7,3 +7,13 @@ html, body, .stage--fullscreen {
     padding: 0;
     border: 0;
 }
+
+.content {
+    max-width: 600px;
+    margin: auto;
+}
+#stage {
+    width: 600px;
+    margin: auto;
+    border: solid thin black;
+}

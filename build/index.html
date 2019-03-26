@@ -7,12 +7,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fractals</title>
     <link rel="stylesheet" href="styles.css">
-    <script defer src="main.dart.js"></script>
+    <script defer src="main.dart"></script>
 </head>
 
 <body>
-<h1 id="header">Fractals</h1>
-<canvas id="stage" width="600" height="400"/>
-<!--class="stage--fullscreen">-->
+
+<div class="content">
+    <div>
+        <h3 id="header">Fractals</h3>
+    </div>
+    <div>
+        <button id="ButtonFractals">Fractals</button>
+        <button id="ButtonMaze">Mazes</button>
+    </div>
+    <div  id="fractalButtons">
+        <button id="ButtonMandelbrot">Mandelbrot</button>
+        <button id="ButtonJuliaSet">Julia Set</button>
+        <button id="ButtonSierpinskiCarpet">Sierpinski Carpet</button>
+    </div>
+
+    <div id="mazeButtons">
+        <button id="ButtonRecursiveBacktracker">Recursive Backtracker</button>
+        <button id="ButtonRandomizedKruskal">Randomized Kruskal's algorithm</button>
+        <button id="ButtonRandomizedPrim">Randomized Prim's algorithm</button>
+    </div>
+
+    <div>
+        <h5 id="subheader"></h5>
+    </div>
+
+    <div>
+        <canvas id="stage" width="600" height="600"></canvas>
+    </div>
+</div>
+
 </body>
 </html>

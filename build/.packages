@@ -28,6 +28,7 @@ graphs:packages/graphs/
 http:packages/http/
 http_multi_server:packages/http_multi_server/
 http_parser:packages/http_parser/
+image:packages/image/
 io:packages/io/
 js:packages/js/
 json_annotation:packages/json_annotation/

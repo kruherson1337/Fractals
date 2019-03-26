@@ -11,10 +11,37 @@
 </head>
 
 <body>
-<h1 id="header">Fractals</h1>
-<h3 id="subheader"></h3>
-<canvas id="stage" width="600" height="400"/>
-<!--class="stage--fullscreen">-->
+
+<div class="content">
+    <div>
+        <h3 id="header">Fractals</h3>
+    </div>
+    <div>
+        <button id="ButtonFractals">Fractals</button>
+        <button id="ButtonMaze">Mazes</button>
+    </div>
+    <div id="fractalButtons">
+        <button id="ButtonMandelbrot">Mandelbrot</button>
+        <button id="ButtonJuliaSet">Julia Set</button>
+        <button id="ButtonSierpinskiCarpet">Sierpinski Carpet</button>
+    </div>
+
+    <div id="mazeButtons">
+        <button id="ButtonRecursiveBacktracker">Recursive Backtracker</button>
+    </div>
+
+    <div>
+        <h5 id="subheader"></h5>
+        <div id="mazeVars">
+            <label>SIZE:</label>
+            <input type="number" id="cellsize" value="40">
+        </div>
+    </div>
+
+    <div>
+        <canvas id="stage" width="600" height="600"></canvas>
+    </div>
+</div>
 
 </body>
 </html>

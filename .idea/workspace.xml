@@ -2,7 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a8fb4cd-0b98-4165-915d-7597a4d8a0be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/098d3ee73e6cc294616d3a2e2c3c81ad/asset_graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/098d3ee73e6cc294616d3a2e2c3c81ad/asset_graph.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/charcode/lib/.dart2js.meta_module.raw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/.dart2js.meta_module.clean" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/.dart2js.meta_module.raw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/collection.dart2js.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/algorithms.dart2js.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/canonicalized_map.dart2js.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/comparators.dart2js.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/iterable_zip.dart2js.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/priority_queue.dart2js.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/collection/lib/src/utils.dart2js.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/color/lib/.dart2js.meta_module.clean" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/color/lib/.dart2js.meta_module.raw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/color/lib/color.dart2js.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/convert/lib/.dart2js.meta_module.raw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/lib/.dart2js.meta_module.clean" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/lib/.dart2js.meta_module.raw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/lib/.dartdevc.meta_module.clean" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/lib/.dartdevc.meta_module.clean" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/lib/.dartdevc.meta_module.raw" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/lib/.dartdevc.meta_module.raw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.dart.bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.dart.bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.dart2js.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.dartdevc.module" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.dartdevc.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.ddc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.ddc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.ddc.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.ddc.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.digests" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.digests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.module.library" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/darts2/web/main.module.library" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/petitparser/lib/.dart2js.meta_module.clean" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/petitparser/lib/.dart2js.meta_module.raw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/petitparser/lib/petitparser.dart2js.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/petitparser/lib/src/core/actions/action.dart2js.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/stagexl/lib/.dart2js.meta_module.clean" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/stagexl/lib/.dart2js.meta_module.raw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/stagexl/lib/stagexl.dart2js.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/stagexl/lib/stagexl.ddc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/stagexl/lib/stagexl.ddc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/stagexl/lib/stagexl.ddc.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/build/generated/stagexl/lib/stagexl.ddc.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/typed_data/lib/.dart2js.meta_module.raw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/xml/lib/.dart2js.meta_module.clean" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/xml/lib/.dart2js.meta_module.raw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/xml/lib/src/xml/builder.dart2js.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/build/generated/xml/lib/xml.dart2js.module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/pub/bin/build_runner/build_runner.dart.snapshot.dart2" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/pub/bin/build_runner/build_runner.dart.snapshot.dart2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/pub/bin/build_runner/graph_inspector.dart.snapshot.dart2" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/pub/bin/build_runner/graph_inspector.dart.snapshot.dart2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/build/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/main.dart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/web/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/styles.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,8 +71,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="224">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="34" column="25" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -27,70 +98,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="114" column="42" lean-forward="true" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="42" />
+            <state relative-caret-position="176">
+              <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stagexl-1.4.0+2/lib/src/display/interactive_object.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="404" column="33" selection-start-line="404" selection-start-column="33" selection-end-line="404" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stagexl-1.4.0+2/lib/src/ui/color.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1312">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stagexl-1.4.0+2/lib/src/display/bitmap_data.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="222" column="7" selection-start-line="222" selection-start-column="7" selection-end-line="222" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stagexl-1.4.0+2/lib/src/display/bitmap_data_update_batch.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stagexl-1.4.0+2/lib/src/display/stage.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3248">
-              <caret line="203" column="63" selection-start-line="203" selection-start-column="57" selection-end-line="203" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/styles.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -102,10 +114,21 @@
       <find>pixels</find>
       <find>400</find>
       <find>float</find>
+      <find>canvas</find>
+      <find>height</find>
+      <find>juliamandelbrot</find>
+      <find>x</find>
+      <find>w</find>
+      <find>drawP</find>
+      <find>ctx.setStrokeColorRgb(255, 255, 255);</find>
     </findStrings>
     <replaceStrings>
       <replace>height</replace>
       <replace>double</replace>
+      <replace>HEIGHT</replace>
+      <replace>XX</replace>
+      <replace>WIDTH</replace>
+      <replace>ctx.setStrokeColorRgb(0, 0, 0);</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -114,17 +137,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/web/main.dart.js" />
+        <option value="$PROJECT_DIR$/web/styles.css" />
         <option value="$PROJECT_DIR$/pubspec.yaml" />
         <option value="$PROJECT_DIR$/web/index.html" />
         <option value="$PROJECT_DIR$/web/main.dart" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="580" />
-    <option name="y" value="198" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1275" />
+    <option name="height" value="1396" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -169,8 +192,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Fractals/web/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/darts2/web/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/Fractals/web/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/Fractals/web/index.html" useBuiltInWebServerPort="true">
@@ -178,6 +207,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -193,24 +224,27 @@
       <option name="presentableId" value="Default" />
       <updated>1552947035036</updated>
       <workItem from="1552947037138" duration="1377000" />
-      <workItem from="1552948788586" duration="11150000" />
+      <workItem from="1552948788586" duration="11773000" />
+      <workItem from="1553286783879" duration="13485000" />
+      <workItem from="1553452156421" duration="10184000" />
+      <workItem from="1553548013616" duration="10197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12527000" />
+    <option name="totallyTimeSpent" value="47016000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="2568" height="1404" extended-state="6" />
+    <frame x="0" y="0" width="1275" height="1396" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1346987" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14686999" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906102" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -218,9 +252,9 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32970452" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Dart Dev Server" order="12" visible="true" weight="0.32970452" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.22628304" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32970452" />
+      <window_info active="true" anchor="bottom" id="Dart Dev Server" order="12" visible="true" weight="0.3317684" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.22613458" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -229,11 +263,39 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>CELL_SIZE</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>r*255</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stagexl-1.4.0+2/lib/src/display/stage.dart">
+    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stagexl-1.4.0+2/lib/src/display/interactive_object.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3248">
-          <caret line="203" column="63" selection-start-line="203" selection-start-column="57" selection-end-line="203" selection-end-column="63" />
+        <state relative-caret-position="6464">
+          <caret line="404" column="33" selection-start-line="404" selection-start-column="33" selection-end-line="404" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stagexl-1.4.0+2/lib/src/ui/color.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stagexl-1.4.0+2/lib/src/display/bitmap_data.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3552">
+          <caret line="222" column="7" selection-start-line="222" selection-start-column="7" selection-end-line="222" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -244,48 +306,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/styles.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stagexl-1.4.0+2/lib/src/ui/color.dart">
+    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stagexl-1.4.0+2/lib/src/display/stage.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1312">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state relative-caret-position="3248">
+          <caret line="203" column="63" selection-start-line="203" selection-start-column="57" selection-end-line="203" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stagexl-1.4.0+2/lib/src/display/bitmap_data.dart">
+    <entry file="file://$PROJECT_DIR$/web/main.dart.js" />
+    <entry file="http://localhost:53322/packages/$sdk/dev_compiler/amd/dart_sdk.js">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/image-2.0.7/lib/src/image.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="222" column="7" selection-start-line="222" selection-start-column="7" selection-end-line="222" selection-end-column="7" />
+        <state relative-caret-position="2000">
+          <caret line="132" column="54" selection-start-line="132" selection-start-column="54" selection-end-line="132" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stagexl-1.4.0+2/lib/src/display/interactive_object.dart">
+    <entry file="file://C:/Program Files/Dart/dart-sdk/lib/html/dart2js/html_dart2js.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="404" column="33" selection-start-line="404" selection-start-column="33" selection-end-line="404" selection-end-column="33" />
+        <state relative-caret-position="34000">
+          <caret line="2191" column="14" selection-start-line="2191" selection-start-column="14" selection-end-line="2191" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stagexl-1.4.0+2/lib/src/engine/render_loop_base.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pubspec.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="224">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="544">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="114" column="42" lean-forward="true" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="42" />
+        <state relative-caret-position="176">
+          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
